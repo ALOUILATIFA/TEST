@@ -19,6 +19,6 @@ public class Voiture {
 	public void calcul_prix_reel(double t) {
 		prix_reel=prix_initial*(1-t);
 	}
-	
+	system.out.println("Merci Latifa");
 	
 }
